@@ -2,6 +2,11 @@
 Sun Micro Systems - Scott McNealy , First Global Internet Stream December 1992. 
 
 
+Video on youtube, no sound because of qemu emulator issue.
+https://www.youtube.com/watch?v=OJXOAHlPivY
+
+![Image of Scott McNealy ](scottmcnealy1992a.png)
+
 I need a old copy of Solaris 2.4 or 2.5 on a SparkStation or emulator to capture an Mpeg4 of this. 
 
 player will play TESTME or holliday greeting 1992 files out to local audio and standard Xwindow. 
